@@ -1,6 +1,6 @@
 # Legal Disclaimer
 
-The information provided by EventSwipe ("we", "us", or "our") on [Mobile Application Name] (the "Application") is for general informational purposes only. All information on the Application is provided in good faith, however, we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Application.
+The information provided by Messer Studios, part of Messer Solutions, ("we", "us", or "our") on EventSwipe (the "Application") is for general informational purposes only. All information on the Application is provided in good faith, however, we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Application.
 
 ## 1. External Links Disclaimer
 
