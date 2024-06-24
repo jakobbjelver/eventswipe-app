@@ -29,7 +29,7 @@ You are solely responsible for your interactions with other users and any conten
 Users can join groups, view other users' usernames, profile images, and event preferences. You are responsible for the content you upload and must have the rights to any images or data you provide.
 
 ## 8. Termination and Suspension
-We reserve the right to suspend or terminate your account if you are found to have violated any of our policies, with or without notice. An appeal process is available through our customer service department at messerklang@gmail.com.
+We reserve the right to suspend or terminate your account if you are found to have violated any of our policies, with or without notice. An appeal process is available through our customer service department at jakob@messerstudios.dev.
 
 ## 9. Disclaimer of Warranties
 EventSwipe is provided "as is" and "as available" without any warranties, expressed or implied.
@@ -47,4 +47,4 @@ By posting Content on EventSwipe, you grant us a non-exclusive, worldwide, royal
 We reserve the right to modify these terms at any time. We will notify you of any changes by posting the new terms on EventSwipe. Your continued use of the Service after any such changes constitutes your acceptance of the new Terms of Service.
 
 ## 14. Contact Us
-If you have any questions about these Terms, please contact us at messerklang@gmail.com.
+If you have any questions about these Terms, please contact us at jakob@messerstudios.dev.
