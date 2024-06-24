@@ -34,10 +34,11 @@ We use third-party services to help us operate EventSwipe:
 ## 7. GDPR Compliance
 
 We comply with the General Data Protection Regulation (GDPR) for users in the European Union.
+DPO is Jakob Bjelvér, contact: jakob@messerstudios.dev.
 
 ## 8. Your Rights
 
-- **Access and Control**: You can access, update, or request deletion of your personal information by navigating to the Settings screen in the app, or by emailing us at messerklang@gmail.com. 
+- **Access and Control**: You can access, update, or request deletion of your personal information by navigating to the Settings screen in the app, or by emailing us at jakob@messerstudios.dev. 
 
 
 ## 9. Changes to this Policy
@@ -46,4 +47,4 @@ We may update this Privacy Policy to reflect changes to our information practice
 
 ## 10. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at messerklang@gmail.com.
+If you have any questions about this Privacy Policy, please contact us at jakob@messerstudios.dev.
