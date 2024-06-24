@@ -26,4 +26,4 @@ The laws of the Kingdom of Sweden, excluding its conflicts of law rules, shall g
 
 ## 7. Contact Us
 
-If you have any concerns or questions about this disclaimer, please contact us at messerklang@gmail.com.
+If you have any concerns or questions about this disclaimer, please contact us at jakob@messerstudios.dev.
