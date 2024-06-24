@@ -4,7 +4,7 @@ Last updated: 13/06-2024
 
 ## 1. Introduction
 
-This Privacy Policy explains how Messer Studios, part of Messer Solution, collects, uses, and discloses your personal information when you use our mobile application EventSwipe.
+This Privacy Policy explains how Messer Studios, part of Messer Solutions, collects, uses, and discloses your personal information when you use our mobile application EventSwipe.
 
 ## 2. Information We Collect
 
