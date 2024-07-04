@@ -36,16 +36,16 @@ By making an in-app purchase or subscribing to our services, you agree to these 
 
 ### 8.2 Lifetime Subscription
 - The Lifetime Subscription is a one-time payment that grants you access to premium features for the lifetime of the EventSwipe app.
-- Lifetime Subscriptions are non-transferable and cannot be downgraded to a monthly subscription.
-- Refunds for Lifetime Subscriptions are only available as mandated by law or through the respective app store's refund policies.
+- Lifetime Subscriptions are non-transferable, neither by app store account or physical device, and cannot be downgraded to a monthly subscription.
+- Refunds for Lifetime Subscriptions are only available as mandated by law or through the respective app store's refund policies. Refunds can be requested by contacting jakob@messerstudios.dev per email, or by any available features offered by the app store (iOS) or play store (Android).
 
 ### 8.3 Monthly Subscription
 - The Monthly Subscription is billed on a recurring basis and will continue until canceled.
-- You may cancel your Monthly Subscription at any time through the subscription management features of the app store where you purchased the subscription.
+- You may cancel your Monthly Subscription at any time through the subscription management features of the app store where you purchased the subscription (preferred), or by the built-in features of the app.
 - Upgrading from a Monthly Subscription to a Lifetime Subscription will result in the remaining period of the monthly subscription being forfeited.
 
 ### 8.4 Payment and Billing
-- Payment for subscriptions and in-app purchases will be charged to your app store account at confirmation of purchase.
+- Payment for subscriptions and in-app purchases will be charged to your app store (iOS) or play store (Android) account at confirmation of purchase.
 - Subscription fees are billed in advance on a monthly basis and are non-refundable except as required by law.
 
 ### 8.5 Changes to Pricing and Subscription Plans
