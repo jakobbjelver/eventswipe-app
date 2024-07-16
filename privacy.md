@@ -56,6 +56,10 @@ We are committed to ensuring the protection of personal data of users within the
 
 You have the right to access, correct, update, or request deletion of your personal information. You can also object to the processing of your personal data, request the restriction of processing, or request portability of your personal data.
 
+### 9.1 Data detetion (The right to be forgotten)
+
+To delete your data, simply go into your personal settings in the app (not the group settings), and scroll down to the bottom and press the button that says "Delete profile". This will delete all your personal data from your profile, from your device and our servers, although it will keep any previously saved usage data at our third party providers. If you have deleted the app, or lost your device, you can always request manual deletion by emailing jakob@messerstudios.dev.
+
 ## 10. Changes to This Policy
 
 We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.
